@@ -1,9 +1,9 @@
 # Projeto-Microcontroladores-Orquestra
-##Orquestra Eletrônica
+## Orquestra Eletrônica
 ### Visão Geral
 Este projeto consiste em criar uma “orquestra eletrônica”,  utilizando diferentes dispositivos comuns, como máquina de costura, impressora, liquidificador e drive de CD. O objetivo é transformar aparelhos domésticos em instrumentos musicais controlando os motores DC. 
 
-###Componentes Utilizados
+### Componentes Utilizados
 ●	Arduino Mega.
 ●	Motor Shield:
 ●	Motores DC: Responsáveis por acionar os dispositivos,
@@ -18,7 +18,7 @@ Este projeto consiste em criar uma “orquestra eletrônica”,  utilizando dife
 ○	Fonte 1: 9V para alimentar os motores da impressora, drive de CD, máquina de costura de mão, escova elétrica.
 ○	Fonte 2: 6V em corrente alternada (AC) para alimentar o mini liquidificador.
 
-###Divisão de Instrumentos: Os instrumentos são divididos em dois grupos principais:
+### Divisão de Instrumentos: Os instrumentos são divididos em dois grupos principais:
 ○	Percussão: Escova elétrica e mini liquidificador. 
 ○	Batida: Impressora, drive de CD e máquina de costura produzem sons de batida.
 Utilização
