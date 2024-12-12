@@ -7,9 +7,9 @@
 
 ●	Michel Thomaz Malveiro dos Santos
 
-●	Thomas
+●	Tomas Barreira Duarte
 
-●	Iasmin 
+●	Iasmim
 
 
 ### Visão Geral
