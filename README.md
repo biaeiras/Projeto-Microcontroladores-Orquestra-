@@ -2,6 +2,7 @@
 ## Orquestra Eletrônica
 
 ### Alunos 
+
 ●	Bianca do Nascimento Eiras
 
 ●	Michel Thomaz Malveiro dos Santos
@@ -15,9 +16,13 @@
 Este projeto consiste em criar uma “orquestra eletrônica”,  utilizando diferentes dispositivos comuns, como máquina de costura, impressora, liquidificador e drive de CD. O objetivo é transformar aparelhos domésticos em instrumentos musicais controlando os motores DC. 
 
 ### Componentes Utilizados
-●	Arduino Mega.
-●	Motor Shield:
-●	Motores DC: Responsáveis por acionar os dispositivos,
+
+●	Arduino Mega
+
+●	Motor Shield
+
+●	Motores DC: Responsáveis por acionar os dispositivos
+
 1.	Mini Liquidificador 
 2.	Escova elétrica
 3.	Impressora 
