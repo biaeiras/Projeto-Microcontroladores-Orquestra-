@@ -1,10 +1,13 @@
 # Projeto-Microcontroladores-Orquestra
 ## Orquestra Eletrônica
 
-###Alunos 
+### Alunos 
 ●	Bianca do Nascimento Eiras
+
 ●	Michel Thomaz Malveiro dos Santos
+
 ●	Thomas
+
 ●	Iasmin 
 
 
@@ -46,6 +49,7 @@ Este projeto consiste em criar uma “orquestra eletrônica”,  utilizando dife
 Durante um período de 1 mês, diversos dispositivos foram testados para integrar a orquestra. Após os testes, os dispositivos selecionados foram mapeados para corresponder às notas musicais, garantindo que cada um produza um som que se assemelhe às notas tradicionais.
 
 **Circuito**
+
 (![WhatsApp Image 2024-12-11 at 10 09 24](https://github.com/user-attachments/assets/ddd1a67b-5245-44db-a618-f9d52f1ee4a7)
 
 
